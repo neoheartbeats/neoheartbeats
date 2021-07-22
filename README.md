@@ -1,0 +1,3 @@
+- Hi, this is Ilya, which currently an AP student at high school.
+- Now learning Java for algorithms to approach a further study abroad.
+- Interested in mathematics, web development & artificial intelligence.
