@@ -9,7 +9,7 @@ compulsive repetition of reckoning and calculating.
     <img width="300" height="300" src="https://i.loli.net/2021/10/03/zlwchDjUXk6tiQo.png">
 </p>
 
-<a href="https://fairystage.tech"><h1 align="center">Fairy Stage</h1>
+<h1 align="center"><a href="https://fairystage.tech">Fairy Stage</a></h1>
 
 ## August 1st, 2021
 Strange feelings. After an experience of depression, the drug could give you a feeling like be in heaven, but that is not real. All the time I am considering what is real, true or right. So many times I thought people with an experience of something like hypomania must have the ability to manage something.
