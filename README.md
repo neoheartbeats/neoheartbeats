@@ -10,7 +10,7 @@ Related project: **KOISHI HANGOUT:** [.emacs.d](https://github.com/ilyaw39/.emac
 
 ### ABOUT ME
 
-<img align="left" src="./img/80648965-00E8-4E4B-B487-84B0B56A8EF4.png" width="240">
+<img src="./img/80648965-00E8-4E4B-B487-84B0B56A8EF4.png" width="240">
 
 - Status: G-10 AP Student.
 - Citizenship: Chinese.
