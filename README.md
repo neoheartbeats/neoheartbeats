@@ -6,7 +6,7 @@
 
 Working with [**GNU Emacs**](https://www.gnu.org/software/emacs/):<img align="right" src="https://www.gnu.org/software/emacs/images/emacs.png" width="90">
 
-Related project: **KOISHI HANGOUT:** [.emacs.d](https://github.com/ilyaw39/.emacs.d)<img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/ilyaw39/.emacs.d?style=social">
+Related project: [.emacs.d](https://github.com/ilyaw39/.emacs.d)<img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/ilyaw39/.emacs.d?style=social">
 
 ### ABOUT ME
 
