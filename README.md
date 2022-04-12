@@ -14,9 +14,9 @@ Related project: [.emacs.d](https://github.com/ilyaw39/.emacs.d)<img align="righ
 
 <img src="./img/80648965-00E8-4E4B-B487-84B0B56A8EF4.png" width="240">
 
-- Status: G-10 AP Student.
-- Citizenship: Chinese.
-- Pursuits: Chemistry & Programming.
+- Status: G-10 AP Student
+- Citizenship: Chinese
+- Pursuits: Chemistry & Programming
 
 ### CONTACT ME
 
