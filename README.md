@@ -20,8 +20,6 @@ Related project: [.emacs.d](https://github.com/ilyaw39/.emacs.d)<img align="righ
 
 ### CONTACT ME
 
-Feel free to chat with me!
-
 - Mail: ilyaw3939@gmail.com
 
 - Discord: ilyaw39#0120
