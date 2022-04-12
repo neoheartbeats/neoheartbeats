@@ -4,7 +4,8 @@
 
 [![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ilyaw39&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
 
-Working with [**GNU Emacs**](https://www.gnu.org/software/emacs/):<img align="right" src="https://www.gnu.org/software/emacs/images/emacs.png" width="90">
+Working with [**GNU Emacs**](https://www.gnu.org/software/emacs/)
+<img src="https://www.gnu.org/software/emacs/images/emacs.png" width="90">
 
 Related project: [.emacs.d](https://github.com/ilyaw39/.emacs.d)<img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/ilyaw39/.emacs.d?style=social">
 
