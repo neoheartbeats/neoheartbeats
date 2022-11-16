@@ -2,7 +2,11 @@
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=ilyaw39&theme=transparent">
 
+---
+
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilyaw39&theme=transparent">
+
+---
 
 ### About Me
 
