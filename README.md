@@ -6,7 +6,6 @@
 
 ### About Me
 
-- G-10 AP Student
 - Materials Science
 - Machine Learning
 - Lisp & WolframScript
