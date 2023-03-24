@@ -6,9 +6,9 @@
 
 ### About Me
 
-- Materials Science
+- Material Science
 - Machine Learning
-- Lisp & WolframScript
+- Institute of Physics - Chinese Academy of Sciences
 
 ### Contact Me
 
