@@ -12,6 +12,5 @@
 
 ### Contact Me
 
-- Email: ilyaw3939@gmail.com
-
-- Discord: ilyaw39#0120
+- Email: flandrelabs@gmail.com
+- Discord: prosantos
