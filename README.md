@@ -8,7 +8,6 @@
 
 - Material Science
 - Machine Learning
-- Institute of Physics - Chinese Academy of Sciences
 
 ### Contact Me
 
